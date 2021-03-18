@@ -1,6 +1,7 @@
 ### Hi there 👋, my name is Jerfry Juan
-#### Full stack developer 
-![Full stack developer ](https://github.com/hebertdev1/hebertdev1/blob/master/javascript.gif) 👨🏽‍💻
+#### Full stack developer 👨🏽‍💻
+
+![Full stack developer ](https://github.com/hebertdev1/hebertdev1/blob/master/javascript.gif) 
 
 I am a person whom like to discover and learn new things, love to read, love to code, love languages currently improving my chinese and starting soon with russian and what I really enjoy it is to wake me up at 4 am its something amazing of course with a good cup of coffee.
 
