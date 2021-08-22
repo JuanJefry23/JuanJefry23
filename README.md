@@ -9,7 +9,7 @@ Each day I improve myself as much as I can, not always it is easy but when is do
 
 Skills: React / Node/ Python / Django / Javascript / Html / Css / Bootstrap / Sql / Git /Github
 
-- 🌱 I’m currently improving my skills in algorhitms, data structure and more.
+- 🌱 I’m currently improving my skills in algorithms, data structure, architecture, clean code and more.
 - 👯 I’m looking to collaborate on open sources projects and more 
 - 📫 How to reach me: og.jjoa@gmail.com 
 - HackerRank: og_jjoa
