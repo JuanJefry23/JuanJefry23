@@ -7,11 +7,12 @@ I am a person whom like to discover and learn new things, love to read, love to 
 
 Each day I improve myself as much as I can, not always it is easy but when is done is awesome
 
-Skills: REACT /Node/ JS / HTML / CSS / Sql/Github/Git
+Skills: React / Node/ Python / Django / Javascript / Html / Css / Bootstrap / Sql / Git /Github
 
-- 🌱 I’m currently learning React/Node/Js 
+- 🌱 I’m currently improving my skills in algorhitms, data structure and more.
 - 👯 I’m looking to collaborate on open sources projects and more 
 - 📫 How to reach me: og.jjoa@gmail.com 
+- HackerRank: og_jjoa
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/JuanJefry23)  
