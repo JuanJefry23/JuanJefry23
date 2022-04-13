@@ -1,4 +1,4 @@
-### Hi there 👋, my name is Jerfry Juan
+### Hi there 👋
 #### Developer 👨🏽‍💻
 
 ![Full stack developer ](https://github.com/hebertdev1/hebertdev1/blob/master/javascript.gif) 
