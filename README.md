@@ -1,5 +1,5 @@
 ### Hi there 👋
-#### Developer 👨🏽‍💻
+#### Frontend Dev 👨🏽‍💻
 
 ![Full stack developer ](https://github.com/hebertdev1/hebertdev1/blob/master/javascript.gif) 
 
