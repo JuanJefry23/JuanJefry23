@@ -9,7 +9,7 @@ Skills: React / JEST / React-testing-library / Javascript / Html / Css / Bootstr
 
 - 🌱 In a continuous improvement.
 - 👯 I’m looking to collaborate on open sources projects and more 
-- 📫 How to reach me: ortega.frontdeva@gmail.com 
+- 📫 How to reach me: ortega.frontdev@gmail.com 
 - HackerRank: og_jjoa
 
 
