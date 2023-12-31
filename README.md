@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am working with Html, Css, Bootstrap, Javascript, React js, Jest, C#, ASP.NET, Sql, Sql Server, AWS, Git.<br>I'm collaborating to open sourcer projects and blogging about it follow me on: https://dev.to/juanjefry23<br>I'm getting fun and improving my logic at leetcode: (https://leetcode.com/JuanJOrtega/){:target="_blank"}<br>I'm enhancing and optimizing my frontend skills on frontend mentor: https://www.frontendmentor.io/profile/JuanJefry23<br>Reach me out at: ortega.frontdev@gmail.com<br><br>I am eager to learn the necessary technology to face and solve problems with high quality and performance :D
+[I am working with Html, Css, Bootstrap, Javascript, React js, Jest, C#, ASP.NET, Sql, Sql Server, AWS, Git.<br>I'm collaborating to open sourcer projects and blogging about it follow me on:] (https://dev.to/juanjefry23){:target="_blank"}<br>I'm getting fun and improving my logic at leetcode: (https://leetcode.com/JuanJOrtega/){:target="_blank"}<br>I'm enhancing and optimizing my frontend skills on frontend mentor: https://www.frontendmentor.io/profile/JuanJefry23<br>Reach me out at: ortega.frontdev@gmail.com<br><br>I am eager to learn the necessary technology to face and solve problems with high quality and performance :D
 
 
 ## 🌐 Socials:
