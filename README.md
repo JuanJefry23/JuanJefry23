@@ -17,5 +17,4 @@ I am working with Html, Css, Bootstrap, Javascript, React js, Jest, C#, ASP.NET,
 
 ---
 [![](https://visitcount.itsvg.in/api?id=JuanJefry23&icon=5&color=3)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+[![](https://visitcount.itsvg.in/api?id=JuanJefry23&label=Profile%20Views&color=3&icon=5&pretty=false)](https://visitcount.itsvg.in)
