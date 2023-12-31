@@ -16,5 +16,3 @@ I am working with Html, Css, Bootstrap, Javascript, React js, Jest, C#, ASP.NET,
 ![](https://github-contributor-stats.vercel.app/api?username=JuanJefry23&limit=5&theme=gruvbox&combine_all_yearly_contributions=true)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=JuanJefry23&icon=5&color=3)](https://visitcount.itsvg.in)
-[![](https://visitcount.itsvg.in/api?id=JuanJefry23&label=Profile%20Views&color=3&icon=5&pretty=false)](https://visitcount.itsvg.in)
